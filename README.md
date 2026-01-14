@@ -3,5 +3,5 @@ play tic tac toe
 
 . . . \
 . x . \
-. . . \
+. . . 
 
